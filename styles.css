@@ -115,4 +115,5 @@ body {
   .info label{
     width: 10%;
     min-width:  55px;
+    text-align: right;
   }
