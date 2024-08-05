@@ -107,6 +107,10 @@ body {
     font-size: 16px;
   }
 
+  .info input, .info label{
+    display: inline-block;
+  }
+  
   .info input{
     width: 50%;
     text-align: left;
