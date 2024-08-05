@@ -106,4 +106,8 @@ body {
   input {
     font-size: 16px;
   }
-  
+
+  .info input{
+    width: 50%;
+    text-align: left;
+  }
