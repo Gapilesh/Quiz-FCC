@@ -160,3 +160,7 @@ body {
     display: flex;
     justify-content: center;
   }
+
+  footer, footer a{
+    color:#D0D0D5;
+  }
