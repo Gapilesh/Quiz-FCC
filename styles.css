@@ -1,3 +1,9 @@
+@media (prefers-reduced-motion: no-preference){
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
 body {
     background: #f5f6f7;
     color: #1b1b32;
@@ -170,6 +176,3 @@ body {
     padding: 5px;
   }
 
-  *{
-    scroll-behavior: smooth;
-  }
